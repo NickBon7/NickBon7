@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nick from Greece and i live in Glasgow, Scotland from 2020.
+I'm Nick from Greece 🌞 and i live in Glasgow, Scotland 🌧️ from 2020.
 I really enjoy learning languages and frameworks. 
 I like to create nice looking pages and more.
 
