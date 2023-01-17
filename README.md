@@ -8,6 +8,6 @@ I like to create nice looking pages 🌠 and more.
 
 ## Skills and Experience
 
-* ⚛ React
+* ⚛ React, GraphQL
 * 🖥️ HTML, CSS, JS
 
